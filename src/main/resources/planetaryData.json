@@ -1,0 +1,42 @@
+[
+  {
+    "planetName": "Mercury",
+    "gravityData": 3.7,
+    "densityData": 5427
+  },
+  {
+    "planetName": "Venus",
+    "gravityData": 8.9,
+    "densityData": 5243
+  },
+  {
+    "planetName": "Earth",
+    "gravityData": 9.8,
+    "densityData": 5514
+  },
+  {
+    "planetName": "Mars",
+    "gravityData": 3.7,
+    "densityData": 3933
+  },
+  {
+    "planetName": "Jupiter",
+    "gravityData": 23.1,
+    "densityData": 1326
+  },
+  {
+    "planetName": "Saturn",
+    "gravityData": 9.0,
+    "densityData": 687
+  },
+  {
+    "planetName": "Uranus",
+    "gravityData": 8.7,
+    "densityData": 1271
+  },
+  {
+    "planetName": "Neptune",
+    "gravityData": 11.0,
+    "densityData": 1638
+  }
+]
